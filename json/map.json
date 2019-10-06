@@ -1,0 +1,1016 @@
+[
+    {
+        "id": "p0_0",
+        "src": "/MGR_Panolens/img/p0_0.jpg",
+        "spots": [
+            {
+                "id": "p0_1",
+                "position": {
+                    "x": 6,
+                    "y": 3,
+                    "z": -50
+                },
+                "rotation": 
+                {
+                    "x": 70,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_1",
+        "src": "/MGR_Panolens/img/p0_1.jpg",
+        "spots": [
+            {
+                "id": "p0_0",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 20
+                }
+            },
+            {
+                "id": "p0_2",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 25
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p0_6",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 20,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_2",
+        "src": "/MGR_Panolens/img/p0_2.jpg",
+        "spots": [
+            {
+                "id": "p0_1",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -50
+                }
+            },
+            {
+                "id": "p0_3",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 30
+                },
+                "rotation": 
+                {
+                    "x": 20,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_1",
+                "position": {
+                    "x": 30,
+                    "y": 6,
+                    "z": 3
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_3",
+        "src": "/MGR_Panolens/img/p0_3.jpg",
+        "spots": [
+            {
+                "id": "p0_2",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -50
+                }
+            },
+            {
+                "id": "p0_4",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -20,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_4",
+        "src": "/MGR_Panolens/img/p0_4.jpg",
+        "spots": [
+            {
+                "id": "p0_3",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -20,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p0_5",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -20
+                },
+                "rotation": 
+                {
+                    "x": -5,
+                    "y": 0,
+                    "z": 40
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_5",
+        "src": "/MGR_Panolens/img/p0_5.jpg",
+        "spots": [
+            {
+                "id": "p0_4",
+                "position": {
+                    "x": 3,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 30
+                }
+            },
+            {
+                "id": "p1_4",
+                "position": {
+                    "x": -20,
+                    "y": 3,
+                    "z": -4
+                },
+                "rotation": 
+                {
+                    "x": -60,
+                    "y": 0,
+                    "z": -5
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_6",
+        "src": "/MGR_Panolens/img/p0_6.jpg",
+        "spots": [
+            {
+                "id": "p0_1",
+                "position": {
+                    "x": -31,
+                    "y": 0,
+                    "z": 2
+                },
+                "rotation": 
+                {
+                    "x": -70,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p0_7",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": 70,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p0_8",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -20,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_7",
+        "src": "/MGR_Panolens/img/p0_7.jpg",
+        "spots": [
+            {
+                "id": "p0_6",
+                "position": {
+                    "x": -50,
+                    "y": 2,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 30
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_8",
+        "src": "/MGR_Panolens/img/p0_8.jpg",
+        "spots": [
+            {
+                "id": "p0_6",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -20,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p0_9",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 50,
+                    "y": 0,
+                    "z": -10
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_9",
+        "src": "/MGR_Panolens/img/p0_9.jpg",
+        "spots": [
+            {
+                "id": "p0_8",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 7
+                },
+                "rotation": 
+                {
+                    "x": 70,
+                    "y": 0,
+                    "z": 5
+                }
+            },
+            {
+                "id": "p0_10",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": -8
+                },
+                "rotation": 
+                {
+                    "x": 70,
+                    "y": 0,
+                    "z": 5
+                }
+            },
+            {
+                "id": "p1_17",
+                "position": {
+                    "x": -5,
+                    "y": 5,
+                    "z": 30
+                },
+                "rotation": 
+                {
+                    "x": 2,
+                    "y": 0,
+                    "z": -30
+                }
+            }
+        ]
+    },
+    {
+        "id": "p0_10",
+        "src": "/MGR_Panolens/img/p0_10.jpg",
+        "spots": [
+            {
+                "id": "p0_9",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -70,
+                    "y": 0,
+                    "z": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_1",
+        "src": "/MGR_Panolens/img/p1_1.jpg",
+        "spots": [
+            {
+                "id": "p0_2",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_2",
+                "position": {
+                    "x": 5,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": 20,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_12",
+                "position": {
+                    "x": -5,
+                    "y": 0,
+                    "z": 30
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_2",
+        "src": "/MGR_Panolens/img/p1_2.jpg",
+        "spots": [
+            {
+                "id": "p1_1",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -5,
+                    "y": 0,
+                    "z": 30
+                }
+            },
+            {
+                "id": "p1_3",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -50,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_3",
+        "src": "/MGR_Panolens/img/p1_3.jpg",
+        "spots": [
+            {
+                "id": "p1_2",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -20,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_4",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -40
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_4",
+        "src": "/MGR_Panolens/img/p1_4.jpg",
+        "spots": [
+            {
+                "id": "p0_5",
+                "position": {
+                    "x": 20,
+                    "y": 0,
+                    "z": -5
+                },
+                "rotation": 
+                {
+                    "x": 70,
+                    "y": 0,
+                    "z": 5
+                }
+            },
+            {
+                "id": "p1_3",
+                "position": {
+                    "x": 0,
+                    "y": 1,
+                    "z": 25
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 30
+                }
+            },
+            {
+                "id": "p1_5",
+                "position": {
+                    "x": 0,
+                    "y": 1,
+                    "z": -20
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_5",
+        "src": "/MGR_Panolens/img/p1_5.jpg",
+        "spots": [
+            {
+                "id": "p1_4",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 25
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 40
+                }
+            },
+            {
+                "id": "p1_6",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": -2
+                },
+                "rotation": 
+                {
+                    "x": 5,
+                    "y": 0,
+                    "z": 5
+                }
+            },
+            {
+                "id": "p1_9",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 2
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -20
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_6",
+        "src": "/MGR_Panolens/img/p1_6.jpg",
+        "spots": [
+            {
+                "id": "p1_5",
+                "position": {
+                    "x": -27,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": -40,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_7",
+                "position": {
+                    "x": 35,
+                    "y": 0,
+                    "z": -28
+                },
+                "rotation": 
+                {
+                    "x": 50,
+                    "y": 0,
+                    "z": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_7",
+        "src": "/MGR_Panolens/img/p1_7.jpg",
+        "spots": [
+            {
+                "id": "p1_6",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -20,
+                    "y": 0,
+                    "z": 15
+                }
+            },
+            {
+                "id": "p1_8",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 20,
+                    "y": 0,
+                    "z": 10
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_8",
+        "src": "/MGR_Panolens/img/p1_8.jpg",
+        "spots": [
+            {
+                "id": "p1_7",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": -15
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_9",
+        "src": "/MGR_Panolens/img/p1_9.jpg",
+        "spots": [
+            {
+                "id": "p1_5",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 30
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_10",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 2
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_10",
+        "src": "/MGR_Panolens/img/p1_10.jpg",
+        "spots": [
+            {
+                "id": "p1_11",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 20,
+                    "y": 0,
+                    "z": -25
+                }
+            },
+            {
+                "id": "p1_9",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_11",
+        "src": "/MGR_Panolens/img/p1_11.jpg",
+        "spots": [
+            {
+                "id": "p1_10",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 50
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_12",
+        "src": "/MGR_Panolens/img/p1_12.jpg",
+        "spots": [
+            {
+                "id": "p1_1",
+                "position": {
+                    "x": 3,
+                    "y": 0,
+                    "z": 30
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                }
+            },
+            {
+                "id": "p1_13",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -50,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_15",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 50,
+                    "y": 0,
+                    "z": -5
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_13",
+        "src": "/MGR_Panolens/img/p1_13.jpg",
+        "spots": [
+            {
+                "id": "p1_12",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_14",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -30
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_14",
+        "src": "/MGR_Panolens/img/p1_14.jpg",
+        "spots": [
+            {
+                "id": "p1_13",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 30
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_15",
+        "src": "/MGR_Panolens/img/p1_15.jpg",
+        "spots": [
+            {
+                "id": "p1_12",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 4
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_16",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": -5
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_16",
+        "src": "/MGR_Panolens/img/p1_16.jpg",
+        "spots": [
+            {
+                "id": "p1_15",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 5
+                }
+            },
+            {
+                "id": "p1_17",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_17",
+        "src": "/MGR_Panolens/img/p1_17.jpg",
+        "spots": [
+            {
+                "id": "p0_9",
+                "position": {
+                    "x": 6,
+                    "y": 0,
+                    "z": 30
+                },
+                "rotation": 
+                {
+                    "x": -6,
+                    "y": 0,
+                    "z": -30
+                }
+            },
+            {
+                "id": "p1_16",
+                "position": {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "p1_18",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "p1_18",
+        "src": "/MGR_Panolens/img/p1_18.jpg",
+        "spots": [
+            {
+                "id": "p1_17",
+                "position": {
+                    "x": 30,
+                    "y": 0,
+                    "z": -3
+                },
+                "rotation": 
+                {
+                    "x": -30,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    }
+]
