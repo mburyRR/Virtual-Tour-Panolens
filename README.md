@@ -4,7 +4,7 @@ Master's project of an application built on the basis of the Panolens framework,
 
 **Demo**
 
----
+https://mburyrr.github.io/Virtual-Tour-Panolens/
 
 **Running App**
 
